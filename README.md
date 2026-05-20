@@ -130,20 +130,4 @@ Available: 3 / 4    Occupied: 1
 
 ---
 
-## Academic Details
-
-- **Institution:** REVA University, Bengaluru
-- **Course:** IoT and Applications
-- **Academic Year:** 2023–24
-- **Semester:** 2nd
-
----
-
-## Authors
-
-**Shyam Sundar** (R23EF257)  
-**Suhil Prasanth** (R23EF266)  
-**Thomson Sunny** (R23EF284)  
-**Sujal Patil** (R23EF267)
-
 GitHub: [@Thomson-4](https://github.com/Thomson-4)
